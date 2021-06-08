@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GameObject
+  - Diary
+  - Door
+  - ClearTrigger
+  - EquipPoint
+  - SetMNQNewPosition
+  - MNQNeedPosition
+  - MNQ
+  - Flashing_Light
+  - Flower
+  - Soju
+  - MNQ_Normal
+  - MNQ_Horror
+  - FallenLeaves
+  - Acceptance_Mobile
+  - Level_2_MNQ_Position
+  - ShadowHands
+  - DoorHinge
+  - Test
+  - Candle
+  - RightDoor
+  - TMNQ
+  - Sheet
+  - Piano
+  - PianoFlower
+  - ViewModeObj
+  - Lasso
+  - Electronic
+  - THMNQ
+  - Bed
+  - MakeupDesk
+  - PlayerCam
+  - Picture
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - FlashingHorror
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
